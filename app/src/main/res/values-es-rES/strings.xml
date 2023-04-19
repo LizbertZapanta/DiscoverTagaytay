@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tagaytay</string>
+    <string name="skyranch">SkyRanch</string>
+    <string name="description">descripción</string>
+    <string name="contact_number">Número de Contacto</string>
+    <string name="map">map</string>
+    <string name="contact">Contacto</string>
+    <string name="contact_address">Drección de Contacto</string>
+    <string name="embassies">Embajadas</string>
+    <string name="attractions">Atracciones</string>
+    <string name="what_s_your_plan_today">¿Cuál es tu Plan Para Hoy?</string>
+    <string name="shop">Compras</string>
+    <string name="nightlife">Fiesta</string>
+    <string name="coffeebreak">Café</string>
+    <string name="dining">Restaurantes</string>
+    <string name="hotel_booking">Hotel Booking</string>
+    <string name="placesToVisit">Lugares Para Visitar</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3279292823148439~4586598418</string>
+    <string name="ospital_ng_tagaytay">Ospital ng Tagaytay</string>
+    <string name="hospital_map">direcciones</string>
+    <string name="_3wxr_p3g_crisanto_m_de_los_reyes_ave_kaybagal_south_tagaytay_cavite_philippines">3WXR+P3G, Crisanto M. De Los Reyes Ave, Kaybagal South, Tagaytay, Cavite, Philippines</string>
+    <string name="_63464832160">+63464832160</string>
+    <string name="tagaytay_medical_center">Tagaytay Medical Center</string>
+    <string name="emilio_aguinaldo_hwy_silang_junction_north_tagaytay_4120_cavite_philippines">Emilio Aguinaldo Hwy, Silang Junction North, Tagaytay, 4120 Cavite, Philippines</string>
+    <string name="_63464830134">+63464830134</string>
+    <string name="rideview_hospital_and_medical_center">Rideview Hospital and Medical Center</string>
+    <string name="tagaytay_nasugbu_hwy_alfonso_4123_cavite_philippines">Tagaytay - Nasugbu Hwy, Alfonso, 4123 Cavite, Philippines</string>
+    <string name="_63468534275">+63468534275</string>
+    <string name="shopping1">COMPRAS</string>
+    <string name="night_life1">FIESTA</string>
+    <string name="coffee_break1">CAFE</string>
+    <string name="dining1">RESTAURANTE</string>
+    <string name="name">Nombre</string>
+    <string name="description1">Descripción</string>
+    <string name="image">imagen</string>
+    <string name="call">Llamar</string>
+    <string name="website">Página Web</string>
+    <string name="share">Compartir</string>
+    <string name="health">Salud</string>
+    <string name="fire_station">bomberos</string>
+    <string name="useful_information">Información Útil</string>
+    <string name="embassies_2">EMBAJADAS</string>
+    <string name="hospitals">HOSPITALES</string>
+    <string name="weather">TIEMPO</string>
+    <string name="policeman">policía</string>
+    <string name="firefighter">bombero</string>
+    <string name="directory">DIRECTORIO</string>
+    <string name="travel">VIAJAR</string>
+    <string name="useful_information2">Información Útil</string>
+    <string name="useful_info">INFORMACIÓN ÚTIL</string>
+    <string name="family_friendly">Para la Familia</string>
+    <string name="family_friendly2">PARA FAMILIAS</string>
+    <string name="romantic_getaways">ESCAPADAS ROMÁNTICAS</string>
+    <string name="health_and_wellness">SALUD Y BIENESTAR</string>
+    <string name="nature_trips">NATURALEZA</string>
+    <string name="fire_station2">BOMBEROS</string>
+    <string name="police_and_fire_stations_directory_in_cavite">Directorio de Estaciones de Policía y Bomberos en Cavite</string>
+    <string name="police_station">POLICÍAS</string>
+    <string name="fire_station1">BOMBEROS</string>
+    <string name="description2">Descripción:</string>
+    <string name="call2">LLAMAR</string>
+    <string name="directions">DIRECCIONES</string>
+    <string name="share2">COMPARTIR</string>
+    <string name="website2">PAGINA WEB</string>
+
+    <string-array name="family_friendly_name">
+        <item>Tagaytay Picnic Grove</item>
+        <item>SkyRanch</item>
+        <item>Puzzle Mansion</item>
+        <item>Paradizoo Theme Park</item>
+        <item>The Gingerbread House</item>
+        <item>Le Don´s Garden</item>
+        <item>Museo Orlina</item>
+        <item>Gratchi\'s Getaway - Tagaytay Farm Resort</item>
+    </string-array>
+
+    <string-array name="family_description">
+        <item>Zonas de pícnic en un entorno pintoresco en lo alto de una colina, además de tirolinas y paseos a caballo.</item>
+        <item>Parque de atracciones, restaurantes y souvenirs.</item>
+        <item>alberga una colección de rompecabezas que de 2012 a 2017 fue reconocida como la más grande del mundo según Guinness.</item>
+        <item>un parque temático de 10 hectáreas con una variedad de animales</item>
+        <item>Parque de atracciones y temático digno de Instagram</item>
+        <item>Adoptando un enfoque de la granja a la mesa, la familia Asunción administra Le Don\'s Garden, una granja orgánica en las afueras de la ciudad de Tagaytay.</item>
+        <item>Museo moderno de interior y exterior que destaca las obras del escultor de vidrio Ramón Orlina.</item>
+        <item>Escape del estrés para recargar energías y relajarse en nuestro hermoso entorno natural bendecido con la brisa fresca de la montaña.</item>
+    </string-array>
+
+    <string-array name="family_address">
+        <item>4XGX+26G, Tagaytay Picnic Grove Complex, Barangay, End, Tagaytay, Cavite</item>
+        <item>Km. 60, Tagaytay - Nasugbu Hwy, Kaybagal South, Tagaytay, Cavite</item>
+        <item>I. Cuadra, Brgy. Asasin, Tagaytay, Cavite</item>
+        <item>493, Mendez-Tagaytay Road, Mendez, 4121, Philippines</item>
+        <item>4R4X+9FR, Matagbak - Palumlum Rd, Alfonso, Cavite, Philippines</item>
+        <item>Purok 3 Emilio Aguinaldo Highway, Biga 1, Silang, 4118 Cavite, Philippines</item>
+        <item>Hollywood Subdivision Road Brgy, Subd, Tagaytay, Cavite, Philippines</item>
+        <item>Kabangaan Rd., Brgy. Cabangaan, Silang, Tagaytay, Cavite, Philippines</item>
+    </string-array>
+
+    <string-array name="romantic_names">
+        <item>Sonya´s Garden</item>
+        <item>The Carmelence View</item>
+        <item>Perlas ng Silang</item>
+        <item>The Lake Hotel Tagaytay</item>
+    </string-array>
+
+    <string-array name="romantic_description">
+        <item>Un bed and breakfast romántico en medio del jardín verde y lleno de flores.</item>
+        <item>Carmelence View ofrece una vista central del lago y, en un día despejado, ofrece una vista de tres cuerpos de agua, a saber, una parte del lago Laguna, el lago Taal y la bahía de Batangas.</item>
+        <item>Este lugar es un paraíso para los amantes de las flores, los entusiastas de las plantas y los aventureros de la comida asiática.</item>
+        <item>Se ha convertido en un destino de viaje favorito de turistas locales y extranjeros por sus innumerables actividades que pueden incluir paseos a caballo, picnics, caminatas y visitas turísticas, solo por nombrar algunas.</item>
+    </string-array>
+
+
+    <string-array name="nature_names">
+        <item>Queens Strawberry Farm</item>
+        <item>People’s Park in the Sky</item>
+        <item>Taal Volcano</item>
+        <item>Tagaytay Ridge</item>
+        <item>Ambon Ambon Falls</item>
+    </string-array>
+
+    <string-array name="nature_description">
+        <item>Queens Strawberry es un bed and breakfast de la granja a la mesa ubicado en Alfonso Cavite. </item>
+        <item>Este parque se ha convertido en un parque urbano y una plataforma de vista, con vistas a la exuberante vegetación y las tierras bajas. El parque también incluye una pequeña capilla, un jardín, tiendas de recuerdos y puestos de comida.</item>
+        <item>El volcán Taal y el lago Taal se encuentran aproximadamente a 70 kilómetros al sur de Manila.</item>
+        <item>Desde Tagaytay Ridge, los visitantes pueden ver el alcance de la montaña que se extiende hacia el mar, oscurecido en secciones por mechones de nubes.</item>
+        <item>Si lo tuyo es perseguir cascadas, ve a ver las cascadas de Ambon-Ambon</item>
+    </string-array>
+
+    <string-array name="coffee_name">
+        <item>Café Voi La Crosswinds</item>
+        <item>Starbucks</item>
+        <item>Bag of Beans Athena Branch</item>
+        <item>Kapeng Mainit Tagaytay</item>
+        <item>Coffee and Dreams Café</item>
+        <item>Char\'s Garden Café</item>
+    </string-array>
+
+    <string-array name="coffee_description">
+        <item>Café Voi La Crosswinds se especializa en preparar una variedad de platos asiáticos y especialidades tailandesas con sabores irresistibles.</item>
+        <item>Cadena de cafeterías con sede en Seattle conocida por sus tostados exclusivos, bocadillos ligeros y disponibilidad de Wi-Fi.</item>
+        <item>Conocido por su ambiente acogedor y relajante junto con su deliciosa selección de café.</item>
+        <item>¡Sirven su propia mezcla de café y comida reconfortante filipina moderna!</item>
+        <item>Coffee and Dreams Tagaytay, un restaurante recién inaugurado que sirve comida deliciosa y tiene el ambiente perfecto</item>
+        <item>Char\'s Garden Café es un pequeño restaurante local que le permite disfrutar de una cena con comida filipina al aire libre.</item>
+    </string-array>
+
+    <string-array name="wellness_name">
+        <item>Nurture Wellness Village</item>
+        <item>Qi Wellness Tagaytay</item>
+        <item>T House Tagaytay</item>
+        <item>La Veryols Kawa Spa</item>
+    </string-array>
+
+    <string-array name="wellness_description">
+        <item>Nurture Wellness Village, nombrado como uno de los 28 spas más relajantes de Asia por CNN Go</item>
+        <item>Qi Wellness ofrece un ambiente romántico y una experiencia de spa para que su estadía en Tagaytay sea inolvidable</item>
+        <item>T House ofrece un poco de paz y tranquilidad con su moderna arquitectura minimalista, el clima fresco de Tagaytay y lo mejor de la hospitalidad filipina.</item>
+        <item>El Mountain View Garden de La Veryol ofrece un estilo único de relajación llamado \"Kawa Hot Bath\"</item>
+    </string-array>
+
+    <string-array name="dining_name">
+        <item>Bulalo Point Turo-Turo Grill</item>
+        <item>Balay Dako</item>
+        <item>Josephine Restaurant Tagaytay</item>
+        <item>Charito by Bag of Beans</item>
+        <item>Leslie\'s Restaurant</item>
+    </string-array>
+
+    <string-array name="dining_description">
+        <item>Sus especialidades son Special Bulalo,  crujiente tawilis, pata crujiente  y boneless bangus</item>
+        <item>Espacio amplio e informal con vistas al lago Taal que ofrece comida local tradicional &amp; Cocina fusión.</item>
+        <item>Josephine Tagaytay es uno de los mejores restaurantes de alta cocina aquí en Tagaytay con una amplia variedad de deliciosos platos filipinos y mariscos.</item>
+        <item>Es un lugar perfecto para desayunar, especialmente cuando vienes de una noche loca.</item>
+        <item>Hogar del mejor Bulalo en la ciudad de Tagaytay.</item>
+    </string-array>
+
+    <string-array name="shop_description">
+        <item>Su destino preferido para cenas íntimas, unión familiar recreativa y compras esenciales complacidas.</item>
+        <item>Primark Shopping Center es un Town Center de dos niveles en Maharlika, Tagaytay</item>
+        <item>Un paraíso de compras y restaurantes en el corazón de la ciudad de Tagaytay, construido de manera amistosa con estructuras contemporáneas y diseños rústicos.</item>
+        <item>Situada en la acogedora y romántica ciudad de Tagaytay, esta nueva sensación de Robinsons Land Corporation rebosa de abundantes y modernas opciones gastronómicas y comerciales.</item>
+        <item>Magallanes Square Hotel está en el corazón del distrito de entretenimiento y restaurantes.</item>
+    </string-array>
+</resources>

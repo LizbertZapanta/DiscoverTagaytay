@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278629311835",
+    "project_id": "tagaytay-dee2a",
+    "storage_bucket": "tagaytay-dee2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278629311835:android:fd87ec1a708fdde1b0e67e",
+        "android_client_info": {
+          "package_name": "com.example.tagaytay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278629311835-m9m5esmq52e5bfqmt9anuhlj95tg24nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwqqXP6UAf1VnCmUjgHNrRPIfokUcLrPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278629311835-m9m5esmq52e5bfqmt9anuhlj95tg24nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
